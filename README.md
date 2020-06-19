@@ -2,7 +2,7 @@
 Uses Python 3.6 or higher, tKinter, pyperclip and pyinstaller to make a Secure password Generator
 
 # Instructions:
-1) Download the exe.
+1) Download the exe (Can be found in /dist/).
   - if the exe fails to run download the project as a zip
   - if there are dependencies download the following: 
   - pyperclip
