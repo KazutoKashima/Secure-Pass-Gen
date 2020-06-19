@@ -3,9 +3,9 @@ Uses Python 3.6 or higher, tKinter, pyperclip and pyinstaller to make a Secure p
 
 # Instructions:
 1) Download the exe.
-  i) if the exe fails to run download the project as a zip
-  ii) if there are dependencies download the following 
-    >pyperclip
+  - if the exe fails to run download the project as a zip
+  - if there are dependencies download the following: 
+    -pyperclip
 2) go to file directory, run the exe.
 3) Have fun!
 
